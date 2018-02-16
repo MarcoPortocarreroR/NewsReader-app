@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "910796600431",
+    "firebase_url": "https://autorizacion-a4712.firebaseio.com",
+    "project_id": "autorizacion-a4712",
+    "storage_bucket": "autorizacion-a4712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910796600431:android:875826f41b75eba4",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910796600431-3nurdefugent98ddlrj1fbam1f4g3jie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.myapplication",
+            "certificate_hash": "2cb8239f9f3057ebcc8756fb45e6cb21c0e6a5ed"
+          }
+        },
+        {
+          "client_id": "910796600431-37784lpdio52a27et1ivi0vni4b7doqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8yAZ8c_E-nKYtUzgoRer5phASxFmsuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910796600431-37784lpdio52a27et1ivi0vni4b7doqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910796600431:android:de78a90796c45971",
+        "android_client_info": {
+          "package_name": "com.example.android.listanoticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910796600431-9m1kuc20ra8orhjeqc16se1jees5h7co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.listanoticias",
+            "certificate_hash": "2cb8239f9f3057ebcc8756fb45e6cb21c0e6a5ed"
+          }
+        },
+        {
+          "client_id": "910796600431-37784lpdio52a27et1ivi0vni4b7doqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8yAZ8c_E-nKYtUzgoRer5phASxFmsuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910796600431-37784lpdio52a27et1ivi0vni4b7doqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
